@@ -1,0 +1,21 @@
+{
+    "name": "mira-prettier-config",
+    "private": true,
+    "version": "0.1.0",
+    "main": "index.js",
+    "prettier": "./index.js",
+    "peerDependencies": {
+        "prettier": "^2.5.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ramiraslanov/mira-prettier-config.git"
+    },
+    "keywords": [
+        "Prettier"
+    ],
+    "bugs": {
+        "url": "https://github.com/ramiraslanov/mira-prettier-config/issues"
+    },
+    "homepage": "https://github.com/ramiraslanov/mira-prettier-config#readme"
+}
